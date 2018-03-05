@@ -5,7 +5,7 @@ class HomePage extends React.Component{
   render(){
     return (
       <div>
-        <h1>Playing around with problems</h1>
+        <h1>TTD Practice</h1>
         <ol reversed>
           <li><Link to="1">Multiples of 3 and 5</Link></li>
         </ol>
